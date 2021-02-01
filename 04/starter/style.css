@@ -1,0 +1,19 @@
+* {
+  margin: 0rem;
+  padding: 0rem;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(243, 225, 174);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+}
+
+.first {
+  color: orange;
+}
+
+#your-name {
+  color: red;
+}
